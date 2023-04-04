@@ -17,7 +17,7 @@ During the course of this project,
 
 ![Screenshot 2023-04-04 165157](https://user-images.githubusercontent.com/69622683/229778252-d93e1438-0230-4681-b9b2-5c343eb84569.png)
 
-                                          QMoney Architecture
+                                             QMoney Architecture
                                           
 ![Screenshot 2023-04-04 165238](https://user-images.githubusercontent.com/69622683/229778418-e5b9cfac-5d69-46fa-ad68-a92538042f7a.png)
 
